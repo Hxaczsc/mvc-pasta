@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67005a5b-287a-4779-aeac-c10bee6eaba7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Models/PastaModel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MVC/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/PastaController.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/PastaController.py" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/PastaController.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/PastaModel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Models/PastaModel.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -38,7 +42,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "develop"
   }
 }]]></component>
   <component name="RecentsManager">
