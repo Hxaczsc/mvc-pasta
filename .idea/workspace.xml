@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67005a5b-287a-4779-aeac-c10bee6eaba7" name="Changes" comment="расширены методы set для класса контроллера при помощи проверки прав доступа">
+    <list default="true" id="67005a5b-287a-4779-aeac-c10bee6eaba7" name="Changes" comment="прописаны сеттеры для класса Pasta">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVC/PastaModel.py" beforeDir="false" afterPath="$PROJECT_DIR$/MVC/PastaModel.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,17 +37,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;develop&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "develop"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\User\PycharmProjects\MVCPasta\Models" />
-      <recent name="C:\Users\User\PycharmProjects\MVCPasta" />
       <recent name="C:\Users\User\PycharmProjects\MVCPasta\MVC" />
     </key>
   </component>
@@ -64,7 +63,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\User\PycharmProjects\MVCPasta\main.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\User\PycharmProjects\MVCPasta\MVC\main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,19 +89,39 @@
       <option name="presentableId" value="Default" />
       <updated>1729423402577</updated>
     </task>
-    <task id="LOCAL-00001" summary="расширены методы set для класса контроллера при помощи проверки прав доступа">
+    <task id="LOCAL-00001" summary="добавлен гитигнор, написан класс Pasta, его защищенные поля и геттеры полей">
       <option name="closed" value="true" />
-      <created>1729443299097</created>
+      <created>1729426677294</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1729443299097</updated>
+      <updated>1729426677294</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="прописаны сеттеры для класса Pasta">
+      <option name="closed" value="true" />
+      <created>1729429797435</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729429797435</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="расширены методы set для класса контроллера при помощи проверки прав доступа" />
-    <option name="LAST_COMMIT_MESSAGE" value="расширены методы set для класса контроллера при помощи проверки прав доступа" />
+    <MESSAGE value="добавлен гитигнор, написан класс Pasta, его защищенные поля и геттеры полей" />
+    <MESSAGE value="прописаны сеттеры для класса Pasta" />
+    <option name="LAST_COMMIT_MESSAGE" value="прописаны сеттеры для класса Pasta" />
   </component>
 </project>
