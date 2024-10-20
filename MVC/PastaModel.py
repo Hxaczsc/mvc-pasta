@@ -37,3 +37,6 @@ class Pasta:
     def set_weight(self, new_weight):
         self.__weight = new_weight
 
+    def add_client_ingredients(self):
+        self.__ingredients.extend(self.__client_ingredients)
+
