@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67005a5b-287a-4779-aeac-c10bee6eaba7" name="Changes" comment="прописаны сеттеры для класса Pasta">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MVC/PastaModel.py" beforeDir="false" afterPath="$PROJECT_DIR$/MVC/PastaModel.py" afterDir="false" />
-    </list>
+    <list default="true" id="67005a5b-287a-4779-aeac-c10bee6eaba7" name="Changes" comment="удалена лишняя папка" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,13 +34,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;develop&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\PycharmProjects\MVCPasta\MVC" />
@@ -105,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729429797435</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="удалена лишняя папка">
+      <option name="closed" value="true" />
+      <created>1729447161361</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729447161361</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,6 +127,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="добавлен гитигнор, написан класс Pasta, его защищенные поля и геттеры полей" />
     <MESSAGE value="прописаны сеттеры для класса Pasta" />
-    <option name="LAST_COMMIT_MESSAGE" value="прописаны сеттеры для класса Pasta" />
+    <MESSAGE value="удалена лишняя папка" />
+    <option name="LAST_COMMIT_MESSAGE" value="удалена лишняя папка" />
   </component>
 </project>
