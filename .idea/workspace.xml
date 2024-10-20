@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67005a5b-287a-4779-aeac-c10bee6eaba7" name="Changes" comment="классу PastaView добавлены методы, выводящие меню на экран пользователя, мелкие изменения в названиях методов класса контроллера">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Controllers/PastaController.py" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/PastaController.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/PastaView.py" beforeDir="false" afterPath="$PROJECT_DIR$/Views/PastaView.py" afterDir="false" />
-    </list>
+    <list default="true" id="67005a5b-287a-4779-aeac-c10bee6eaba7" name="Changes" comment="расширение методов set в классе вью, незначительные доработки методов set в классе контроллере" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -138,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729456192474</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="расширение методов set в классе вью, незначительные доработки методов set в классе контроллере">
+      <option name="closed" value="true" />
+      <created>1729458784865</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729458784865</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,6 +163,7 @@
     <MESSAGE value="." />
     <MESSAGE value="добавлен класс вью Pastaview и его поля" />
     <MESSAGE value="классу PastaView добавлены методы, выводящие меню на экран пользователя, мелкие изменения в названиях методов класса контроллера" />
-    <option name="LAST_COMMIT_MESSAGE" value="классу PastaView добавлены методы, выводящие меню на экран пользователя, мелкие изменения в названиях методов класса контроллера" />
+    <MESSAGE value="расширение методов set в классе вью, незначительные доработки методов set в классе контроллере" />
+    <option name="LAST_COMMIT_MESSAGE" value="расширение методов set в классе вью, незначительные доработки методов set в классе контроллере" />
   </component>
 </project>
