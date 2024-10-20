@@ -22,16 +22,27 @@ class Pastacontroller:
             self.model.set_ingredients(new_ingredients)
             return "Рецепт успешно изменен"
         else:
-            return "Нет права доступа"
+            return "forbidden"
 
     def set_price(self, user_rights, new_price):
+        int_price = int(new_price)
         if user_rights in ["Admin", "IsStaff", "IsSuperuser"]:
-            self.model.set_price(new_price)
+            self.model.set_price(int_price)
+            return "цена изменена"
+        else:
+            return "forbidden"
 
     def set_weight(self, user_rights, new_weight):
+        int_weight = int(new_weight)
         if user_rights in ["Admin", "IsStaff", "IsSuperuser"]:
-            self.model.set_weight(new_weight)
+            self.model.set_weight(int_weight)
+            return "вес изменен"
+        else:
+            return "forbidden"
 
     def set_picture(self, user_rights, new_picture):
         if user_rights in ["Admin", "IsStaff", "IsSuperuser"]:
             self.model.set_picture(new_picture)
+            return "картинка изменена"
+        else:
+            return "forbidden"

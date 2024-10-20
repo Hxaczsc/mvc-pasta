@@ -1,5 +1,5 @@
 class PastaModel:
-    def __init__(self, name: str, ingredients: list, price: float, weight: float, picture, client_ingredients: list = None):
+    def __init__(self, name: str, ingredients: list, price: int, weight: int, picture, client_ingredients: list = None):
         self.__name = name
         self.__ingredients = ingredients
         self.__price = price
