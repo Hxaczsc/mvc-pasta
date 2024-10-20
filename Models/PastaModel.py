@@ -1,9 +1,10 @@
-class Pasta:
-    def __init__(self, name: str, ingredients: list, price: float, weight: float, client_ingredients: list = None):
+class PastaModel:
+    def __init__(self, name: str, ingredients: list, price: float, weight: float, picture, client_ingredients: list = None):
         self.__name = name
         self.__ingredients = ingredients
         self.__price = price
         self.__weight = weight
+        self.__picture = picture
         if client_ingredients is not None:
             self.__client_ingredients = client_ingredients
         else:
@@ -21,6 +22,9 @@ class Pasta:
     def get_weight(self):
         return self.__weight
 
+    def get_picture(self):
+        return self.__picture
+
     def get_client_ingredients(self):
         return self.__client_ingredients
 
@@ -36,6 +40,9 @@ class Pasta:
 
     def set_weight(self, new_weight):
         self.__weight = new_weight
+
+    def set_picture(self, new_picture):
+        self.__picture - new_picture
 
     def add_client_ingredients(self):
         self.__ingredients.extend(self.__client_ingredients)
