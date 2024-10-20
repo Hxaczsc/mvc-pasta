@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67005a5b-287a-4779-aeac-c10bee6eaba7" name="Changes" comment="удалена лишняя папка" />
+    <list default="true" id="67005a5b-287a-4779-aeac-c10bee6eaba7" name="Changes" comment="." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729447161361</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=".">
+      <option name="closed" value="true" />
+      <created>1729447983183</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729447983183</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,6 +136,7 @@
     <MESSAGE value="добавлен гитигнор, написан класс Pasta, его защищенные поля и геттеры полей" />
     <MESSAGE value="прописаны сеттеры для класса Pasta" />
     <MESSAGE value="удалена лишняя папка" />
-    <option name="LAST_COMMIT_MESSAGE" value="удалена лишняя папка" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
 </project>
