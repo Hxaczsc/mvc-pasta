@@ -23,3 +23,17 @@ class Pasta:
 
     def get_client_ingredients(self):
         return self.__client_ingredients
+
+    def set_ingredients(self, new_ingredients: list):
+        if type(new_ingredients) is list:
+            self.__ingredients.clear()
+            self.__ingredients.extend(new_ingredients)
+        else:
+            return "Неверный тип данных"
+
+    def set_price(self, new_price):
+        self.__price = new_price
+
+    def set_weight(self, new_weight):
+        self.__weight = new_weight
+
