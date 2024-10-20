@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67005a5b-287a-4779-aeac-c10bee6eaba7" name="Changes" comment="." />
+    <list default="true" id="67005a5b-287a-4779-aeac-c10bee6eaba7" name="Changes" comment="расширение методов set в классе вью, незначительные доработки методов set в классе контроллере" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,13 +34,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\PycharmProjects\MVCPasta\MVC" />
@@ -118,7 +118,31 @@
       <option name="project" value="LOCAL" />
       <updated>1729447983183</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="добавлен класс вью Pastaview и его поля">
+      <option name="closed" value="true" />
+      <created>1729448198085</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729448198085</updated>
+    </task>
+    <task id="LOCAL-00006" summary="классу PastaView добавлены методы, выводящие меню на экран пользователя, мелкие изменения в названиях методов класса контроллера">
+      <option name="closed" value="true" />
+      <created>1729456192474</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729456192474</updated>
+    </task>
+    <task id="LOCAL-00007" summary="расширение методов set в классе вью, незначительные доработки методов set в классе контроллере">
+      <option name="closed" value="true" />
+      <created>1729458784865</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729458784865</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,6 +161,9 @@
     <MESSAGE value="прописаны сеттеры для класса Pasta" />
     <MESSAGE value="удалена лишняя папка" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="добавлен класс вью Pastaview и его поля" />
+    <MESSAGE value="классу PastaView добавлены методы, выводящие меню на экран пользователя, мелкие изменения в названиях методов класса контроллера" />
+    <MESSAGE value="расширение методов set в классе вью, незначительные доработки методов set в классе контроллере" />
+    <option name="LAST_COMMIT_MESSAGE" value="расширение методов set в классе вью, незначительные доработки методов set в классе контроллере" />
   </component>
 </project>
